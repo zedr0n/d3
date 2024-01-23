@@ -1,0 +1,11 @@
+{
+	"id": "d3-plugin",
+	"name": "D3 Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "D3 plugin",
+	"author": "Obsidian",
+	"authorUrl": "zedr0n",
+	"fundingUrl": "https://github.com/zedr0n/d3",
+	"isDesktopOnly": false
+}
